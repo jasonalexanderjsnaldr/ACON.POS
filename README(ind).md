@@ -1,10 +1,10 @@
-# BINUS POS — Sistem Kasir & Manajemen Toko
+# ACON POS — Sistem Kasir & Manajemen Toko
 
 Aplikasi Point of Sale (POS) untuk toko retail, dibangun sebagai proyek portofolio pribadi untuk mempelajari pengembangan aplikasi bisnis full-featured dari front-end murni sampai integrasi database cloud.
 
 Aplikasi ini menangani alur kerja toko dari ujung ke ujung: manajemen stok & merek dengan skema diskon bertingkat, transaksi kasir, piutang/kas bon pelanggan, retur barang, pencatatan pengeluaran operasional, hingga laporan laba-rugi — dioptimalkan untuk digunakan di **tablet dan desktop** (bukan HP, karena konteks penggunaan POS di kasir toko umumnya di device layar besar).
 
-🔗 **Live demo:** https://binus-pos.vercel.app/
+🔗 **Live demo:** https://acon-pos.vercel.app/
 📦 **Source code:** repo ini
 
 ---
