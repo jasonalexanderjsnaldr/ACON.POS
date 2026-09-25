@@ -157,7 +157,7 @@
             const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(db));
             const downloadAnchorElem = document.createElement('a');
             downloadAnchorElem.setAttribute("href", dataStr);
-            downloadAnchorElem.setAttribute("download", "Backup_BINUS_" + new Date().toLocaleDateString('id-ID').replace(/\//g, '-') + ".json");
+            downloadAnchorElem.setAttribute("download", "Backup_ACON_" + new Date().toLocaleDateString('id-ID').replace(/\//g, '-') + ".json");
             document.body.appendChild(downloadAnchorElem); 
             downloadAnchorElem.click();
             downloadAnchorElem.remove();
@@ -513,7 +513,7 @@
                 <div class="receipt-wrapper">
                     ${watermarkHTML}
                     <div class="header-thermal t-center">
-                        <h2>BINUS</h2>
+                        <h2>ACON</h2>
                         <div class="divider"></div>
                     </div>
                     <div style="font-size: 11px;">
